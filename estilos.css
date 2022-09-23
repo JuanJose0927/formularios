@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    outline: none;
+}
+.Formulario{
+    font-family: 'Rubik Dirt', cursive;
+    text-align: center;
+    background-color: rgb(140, 240, 193);
+    height: 50vh;
+}
+.lottie{
+    background-color: rgb(206, 53, 211);
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.formulario{
+    font-family: 'Rubik Dirt', cursive;
+    text-align: center;
+    background-color: rgb(155, 226, 193);
+    height: 50vh;
+}
